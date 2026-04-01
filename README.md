@@ -1,7 +1,11 @@
 # Restobar CORE V1 - Documentación del Proyecto
 
-Este repositorio contiene la documentación completa del proyecto **Restobar CORE V1**, desarrollado como plataforma de gestión local para un restobar.  
-El proyecto se trabajó bajo metodología ágil (Scrum), con múltiples sprints, entregables periódicos y cierre formal aprobado por el cliente.
+Este repositorio contiene la documentación completa del proyecto **Restobar CORE V1**, desarrollado como plataforma de gestión de pedidos y operaciones para un restobar.  
+El sistema permite administrar ventas de garzones, gestión de mesas, productos y reportes, funcionando como apoyo directo a la operación diaria del restaurante.  
+
+El proyecto se trabajó bajo metodología ágil (**Scrum**), con múltiples sprints, entregables periódicos y cierre formal aprobado por el cliente.  
+Incluye levantamiento de requerimientos, diseño UML, planificación con carta Gantt, pruebas de software y documentación integral.
+
 
 ---
 ## 📑 Acta de Constitución
