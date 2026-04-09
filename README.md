@@ -79,7 +79,7 @@ Videos en formato `.mp4` mostrando la aplicación en funcionamiento.
 
 ## 🎤 Presentación General
 Archivo PowerPoint con resumen del proyecto.  
-[Ver carpeta → presentacion](./presentacion)
+[Ver carpeta → presentacion](./presentación)
 
 ---
 
