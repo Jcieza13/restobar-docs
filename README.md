@@ -95,7 +95,7 @@ El proyecto Restobar CORE V1 fue desarrollado por un equipo de 4 integrantes:
 - Henry Richard Lohse Rojas – Director de proyecto  
 - Agustín Humberto Bornscheuer Guajardo – Diseño gráfico  
 - Ignacio Andrés Pérez Flores – Desarrollo PHP y SQL  
-- Jen Pierr Cieza Díaz – Desarrollo PHP y gestión de base de datos  
+- Jen Pierr Cieza Díaz – Analista Funcional
 
 ---
 
